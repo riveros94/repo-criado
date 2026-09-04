@@ -1,6 +1,6 @@
 # Meu projeto
 ## Descrição do projeto
-Este projeto apresenta uma introdução pratica de Git.
+Este projeto apresentaca de Git.
 
 ## Instalação
 Consulte a documentação para instalação

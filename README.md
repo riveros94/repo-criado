@@ -1,6 +1,6 @@
 # Meu projeto
 ## Descrição do projeto
-Este é um projeto de exemplo para praticar comandos Git.
+Este projeto apresenta uma introdução pratica de Git.
 
 ## Instalação
 Consulte a documentação para instalação
